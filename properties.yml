@@ -1,0 +1,5 @@
+APP_NAME: asset-developer
+MS_NAME: asset
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/subir0071/asset.git
+SONAR_HOST_URL: http://sonar-asset-developer-cicd.52.172.12.252.nip.io
